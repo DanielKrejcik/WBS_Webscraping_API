@@ -6,4 +6,4 @@ The task was to provide the executives of this company with weather forecasts an
 
 An in-depth explanation of this project is to be found on medium: https://medium.com/@dkrejcik80/an-absolute-beginners-approach-to-data-engineering-fe19f375454a
 
-Note: the notebboks use API-calls, the name of the files only reflects the removal of personal API-keys
+Note: the notebooks use API-calls, the name of the files only reflects the removal of personal API-keys
